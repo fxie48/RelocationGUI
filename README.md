@@ -1,5 +1,5 @@
 # RelocationGUI
-Click here to watch the demo video of the application.
+Click [here](<https://youtu.be/O6Y7ZsYGJEQ>) to watch the demo video of the application.
 
 The Final Project folder contains the raw data used within the project, as well as the cleaned data. The python and jupyter notebook files contains the code used to build the application. The all_cleaned_data.xlsx file consolidates all the data tables used within the project. 
 
